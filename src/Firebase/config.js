@@ -1,5 +1,5 @@
 import firebase from 'firebase';
-require('firebase/auth')
+//require('firebase/auth')
 
 
 var firebaseConfig = {
